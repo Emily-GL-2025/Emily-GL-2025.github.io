@@ -3,15 +3,13 @@ layout: home
 title:
 ---
 
-<section class="hero">
-
 # Emily
 
 I build projects to understand how things work.
 
 [Explore my projects →](/projects/)
 
-</section>
+
 
 ## Selected Projects
 
