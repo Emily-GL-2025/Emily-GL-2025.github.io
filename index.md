@@ -5,7 +5,7 @@ title:
 
 # Emily
 
-I build projects to understand how things work.
+I build projects to understand how things work around us.
 
 
 
