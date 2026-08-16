@@ -1,0 +1,14 @@
+title: Emily
+description: Fun, hobby and science projects
+
+theme: minima
+
+author:
+  name: Emily
+
+header_pages:
+  - projects.md
+  - blog.md
+  - about.md
+
+markdown: kramdown
