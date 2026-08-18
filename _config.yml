@@ -3,12 +3,12 @@ description: Fun, hobby and science projects
 
 theme: minima
 
-author:
-  name: Emily
+author: Emily
 
 header_pages:
-  - projects.md
   - blog.md
-  - about.md
+  - photography.md
+  
+
 
 markdown: kramdown
