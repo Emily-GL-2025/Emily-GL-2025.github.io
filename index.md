@@ -37,20 +37,24 @@ title:
 
     <div class="project-card project-card-empty">
       <div class="project-card-body">
-        <span class="project-tag">Science</span>
-        <h3>Projects coming soon</h3>
+        <span class="project-tag">Math and Code</span>
+        <h3>
+           <a href="https://github.com/Emily-GL-2025/Ann-Cafe">Ann Cafe App</a>
+        </h3>
         <p>
-          Experiments, investigations, and things I learn by building.
+          Building my first interactive data app in Python while experimenting simple recommandation system and learning about Bayesian averages and histograms.
         </p>
       </div>
     </div>
 
     <div class="project-card project-card-empty">
       <div class="project-card-body">
-        <span class="project-tag">Coding</span>
-        <h3>More things I'm working on</h3>
+        <span class="project-tag">Adventure</span>
+        <h3>
+           <a href="https://your-project-url.com">International Award Bronze Level</a>
+        </h3>
         <p>
-          Small programs, interactive projects, and ideas I'm exploring.
+          Hiking, camping, and orienteering with my team, helping plan and record our journey on GitHub while building teamwork and friendships.
         </p>
       </div>
     </div>
